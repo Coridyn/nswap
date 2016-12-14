@@ -1,6 +1,6 @@
 {
   "name": "nswap",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Swap node_modules between Windows and LXSS",
   "main": "index.js",
   "bin": {
